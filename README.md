@@ -1,3 +1,17 @@
+# Use antd in create-react-app ✨
+
+[Create React App](https://facebook.github.io/create-react-app/) + [Ant Design](https://ant.design).
+
+## See more
+
+- [antd](http://github.com/ant-design/ant-design/)
+- [create-react-app](https://github.com/facebookincubator/create-react-app)
+- [craco](https://github.com/gsoft-inc/craco)
+- [craco-antd](https://github.com/DocSpring/craco-antd)
+- [craco recipes: use-ant-design](https://github.com/gsoft-inc/craco/blob/master/recipes/use-ant-design/craco.config.js)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
